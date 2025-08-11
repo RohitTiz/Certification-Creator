@@ -33,12 +33,12 @@ export default function App() {
                 studentName={certificateData.studentName} 
               />
               
-              <button
+              {/* <button
                 onClick={handleGenerateAnother}
                 className="px-6 py-2 bg-gray-600 text-white rounded-lg font-medium shadow-md hover:bg-gray-700 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
               >
                 Generate Another Certificate
-              </button>
+              </button> */}
             </div>
           </div>
         )}
