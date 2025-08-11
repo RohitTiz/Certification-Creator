@@ -55,7 +55,7 @@ export default function Form({ onGenerate }) {
               onChange={handleChange}
               className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
               required
-              placeholder="John Doe"
+              placeholder="Anjali Singh"
             />
           </div>
           
@@ -68,7 +68,7 @@ export default function Form({ onGenerate }) {
               onChange={handleChange}
               className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
               required
-              placeholder="Prof. Jane Smith"
+              placeholder="Prof. Shudhanshu"
             />
           </div>
           
@@ -93,7 +93,7 @@ export default function Form({ onGenerate }) {
               value={formData.email}
               onChange={handleChange}
               className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
-              placeholder="john@example.com"
+              placeholder="singh@example.com"
             />
           </div>
           
